@@ -12,4 +12,9 @@ export class HomePageComponent {
   console.log(" function gotoproductPage");
   
  }
+
+ hello(){
+  console.log("hello ");
+  
+ }
 }
